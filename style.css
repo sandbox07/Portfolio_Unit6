@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://media.istockphoto.com/illustrations/rainbow-burst-abstract-background-illustration-id502102504?k=6&m=502102504&s=170667a&w=0&h=t4VaJJnrJyiaTnV13gVVf0Evay-Mxiwfv24RHgFLSuQ=");
       background-size: cover;
       color: white;
     }
@@ -8,12 +8,15 @@
       color: white;
     }
     h1 {
-      font-size: 70px;
+      font-size: 90px;
+      font-family: fantasy;
+      color: black;
     }
     img {
       margin: 40px 0px 0px 0px;
       border: 7px solid white;
       border-radius: 20px;
+      height: 60%;
     }
     ul {
       padding: 10px;
